@@ -1,0 +1,24 @@
+---
+title: "Alper Çevirgel"
+image: images/Photo.png
+page-layout: full
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alpercvrgl
+    - icon: github
+      text: Github
+      href: https://github.com/alpercevirgel
+    - icon: email
+      text: Email
+      href: mailto:alpercevirgel@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alper-cevirgel/
+---
+
+Personal website *in progress*
