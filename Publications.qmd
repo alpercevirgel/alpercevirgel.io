@@ -7,8 +7,11 @@ editor: visual
 
 ## Peer-reviewed Publications
 
-**3. Identification of aging‐associated immunotypes and immune stability as indicators of post‐vaccination immune activation**. **Cevirgel, A.**, Shetty, S., Vos, M., Nanlohy, N., Beckers, L., Bijvank, E., Rots, N.Y., van Beek, J., Buisman, A.M., & van Baarle, D. (2022) [Aging Cell](https://doi.org/10.1111/acel.13703)
+**Identification of aging‐associated immunotypes and immune stability as indicators of post‐vaccination immune activation**. **Cevirgel, A.**, Shetty, S., Vos, M., Nanlohy, N., Beckers, L., Bijvank, E., Rots, N.Y., van Beek, J., Buisman, A.M., & van Baarle, D. (2022) [Aging Cell](https://doi.org/10.1111/acel.13703)
 
-**2. Children and Adults With Mild COVID-19: Dynamics of the Memory T Cell Response up to 10 Months**. Kaaijk, P., Pimentel, V. O., Emmelot, M. E., Poelen, M., **Cevirgel, A.**, Schepp, R. M., Hartog, G. den, Reukers, D. F. M., Beckers, L., van Beek, J., Els, C. A. C. M. van, Meijer, A., Rots, N. Y., & de Wit, J. (2022) [Frontiers in Immunology](https://doi.org/10.3389/fimmu.2022.817876)
 
-**1. Functional diversification of hybridoma-produced antibodies by CRISPR/HDR genomic engineering.**. van der Schoot, J. M. S., Fennemann, F. L., Michael Valente, Valente, M., Dolen, Y., Hagemans, I. M., Becker, A. M. D., Le Gall, C. M., van Dalen, D., **Cevirgel, A.**, van Bruggen, J. A. C., Engelfriet, M., Melanie Engelfriet, Čaval, T., Bentlage, A. E. H., Fransen, M. F., Nederend, M., Leusen, J. H. W., Heck, A. J. R., ... Scheeren, F. A.(2019) [Science Advances](https://doi.org/10.1126/sciadv.aaw1822)
+
+**Children and Adults With Mild COVID-19: Dynamics of the Memory T Cell Response up to 10 Months**. Kaaijk, P., Pimentel, V. O., Emmelot, M. E., Poelen, M., **Cevirgel, A.**, Schepp, R. M., Hartog, G. den, Reukers, D. F. M., Beckers, L., van Beek, J., Els, C. A. C. M. van, Meijer, A., Rots, N. Y., & de Wit, J. (2022) [Frontiers in Immunology](https://doi.org/10.3389/fimmu.2022.817876)
+
+
+**Functional diversification of hybridoma-produced antibodies by CRISPR/HDR genomic engineering.**. van der Schoot, J. M. S., Fennemann, F. L., Michael Valente, Valente, M., Dolen, Y., Hagemans, I. M., Becker, A. M. D., Le Gall, C. M., van Dalen, D., **Cevirgel, A.**, van Bruggen, J. A. C., Engelfriet, M., Melanie Engelfriet, Čaval, T., Bentlage, A. E. H., Fransen, M. F., Nederend, M., Leusen, J. H. W., Heck, A. J. R., ... Scheeren, F. A.(2019) [Science Advances](https://doi.org/10.1126/sciadv.aaw1822)
