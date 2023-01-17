@@ -1,1 +1,2 @@
-Personal website *in progress*
+Personal website *in progress* 
+https://alpercevirgel.github.io/alpercevirgel.io/
